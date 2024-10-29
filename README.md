@@ -45,6 +45,8 @@ sudo apt update
 4. Configure Node.js and `npm` - [Guide by DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-22-04)
 
 ### Deploying the project on AWS
+### youtube guide 
+https://www.youtube.com/watch?v=NLmF64KdLN0&ab_channel=Abhishek.Veeramalla
 
 1. Clone this project in the remote VM
 ```
